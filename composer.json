@@ -1,6 +1,6 @@
 {
-    "name": "charles/DateTimeHelper",
-    "homepage": "https://github.com/charlestang/DateTimeHelper",
+    "name": "charlestang/date-time-helper",
+    "homepage": "https://github.com/charlestang/date-time-helper",
     "description": "Some date time helpers functions to help create statistics",
     "type": "library",
     "license": "MIT",
